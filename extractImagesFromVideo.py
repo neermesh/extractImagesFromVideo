@@ -51,7 +51,6 @@ def controller(inpath,outpath):
 
 
 controller('untitled_folder/','data/')
-#extractor('./untitled\ folder/2c-5c-6h-3h-Js-Ah-Ac-Td-Jc-Ad-Jd.mp4','data')
 
 
 
